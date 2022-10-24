@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/supabase-react-tareasApp/static/css/main.3ecf3825.css",
+    "main.js": "/supabase-react-tareasApp/static/js/main.c754f55f.js",
+    "static/js/255.56f3e7ca.chunk.js": "/supabase-react-tareasApp/static/js/255.56f3e7ca.chunk.js",
+    "index.html": "/supabase-react-tareasApp/index.html",
+    "main.3ecf3825.css.map": "/supabase-react-tareasApp/static/css/main.3ecf3825.css.map",
+    "main.c754f55f.js.map": "/supabase-react-tareasApp/static/js/main.c754f55f.js.map",
+    "255.56f3e7ca.chunk.js.map": "/supabase-react-tareasApp/static/js/255.56f3e7ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ecf3825.css",
+    "static/js/main.c754f55f.js"
+  ]
+}
